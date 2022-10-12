@@ -1,0 +1,23 @@
+body{
+	background-color: rgb(171, 221, 236);
+}
+.navbar{
+	background-color: rgb(49, 40, 40);
+	display: flex;
+	justify-content: center;
+	margin:0;
+	
+}
+
+.navbar a{
+	text-decoration: none;
+	font-family: 'Amatic SC', cursive;
+	font-weight: 300;
+	font-size: 2rem;
+	padding: 1rem;
+	color: white;
+}
+.navbar a:hover{
+background-color: rgb(171, 221, 236);
+color:rgb(49, 40, 40) ;
+}

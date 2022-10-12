@@ -1,0 +1,50 @@
+.container{
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;	
+}
+.card{
+		/* border: 1px solid red; */
+		background-color: rgb(49, 40, 40);
+		color: whitesmoke;
+		box-shadow: 3px 3px 5px rgba(0,0,0,0.7);
+		border-radius: 10px;
+		margin: 1rem;
+		padding: 1rem;
+		overflow: hidden;
+		max-width: 350px;
+		max-height: 400px;
+		position: relative;
+		
+}
+.card h1{
+	font-family: 'Amatic SC', cursive;
+}
+img{
+	width: 350px; 
+    height: 310px;
+	object-fit: cover;
+
+}
+img:hover{
+	opacity: 0.7;
+}
+
+.description{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	font-size: 1rem;
+	background-color: rgba(0,0,0,0.5);
+	padding: 1rem;
+	transform: translateY(100%);
+	z-index: 1;
+    transition: transform 0.7s ease-in-out;
+	
+	
+
+}
+.card:hover .description{
+	transform: translateY(0%);
+}
+
