@@ -85,7 +85,7 @@ export const data = [
   },
   {
     id: 12,
-    title: "Balıklıgöl",
+    title: "Balikligöl",
     desc:
       "Balıklıgöl (or Pool of Abraham, Halil-Ür Rahman Lake), is a pool in the southwest of the city center of Şanlıurfa, Turkey known in Jewish and Islamic legends as the place where Nimrod threw the Prophet Abraham into a fire. Balıklıgöl and neighbouring Aynzeliha pools are among the most visited places in Şanlıurfa.",
     image:
