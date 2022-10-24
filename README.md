@@ -1,9 +1,12 @@
-Tour Places
+# Project : Tour Places
 
 ## Check The Live Website ➡️ [Live Website](https://turkey-tour-places.netlify.app/)
 
 ## Visualization of the Website
+![Form](./tour-places.gif)
 
+
+## Visualization of the Website
 
 ![image](https://user-images.githubusercontent.com/105461003/195468072-373a73d6-df9a-4edf-b3ce-0730ca0c99b6.png)
 ![image](https://user-images.githubusercontent.com/105461003/195468600-8333b812-4170-47d8-bd49-864ab1be215b.png)
@@ -18,7 +21,7 @@ You can see the visual representation of the website above.
 
 - Step 1: Create React App using `npx create-react-app image-gallery`
 
-- Step 2: For images you can use [Images](./src/helper/data.js).
+- Step 2: For images you can use [Images](./assets/data.js).
 
 - Step 3: Push your application into your own public repo on Github
 
@@ -26,7 +29,7 @@ You can see the visual representation of the website above.
 
 ## Resources
 
-- 🔥 You can use [`data.js`](./src/helper/data.js) for your own work.
+- 🔥 You can use [`data.js`](./assets/data.js) for your own work.
 
 # <center> ⌛ Happy Coding ✍ </center>
 
