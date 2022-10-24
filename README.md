@@ -21,7 +21,7 @@ You can see the visual representation of the website above.
 
 - Step 1: Create React App using `npx create-react-app image-gallery`
 
-- Step 2: For images you can use [Images](./assets/data.js).
+- Step 2: For images you can use [Images](./src/assets/data.js).
 
 - Step 3: Push your application into your own public repo on Github
 
