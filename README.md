@@ -29,7 +29,7 @@ You can see the visual representation of the website above.
 
 ## Resources
 
-- 🔥 You can use [`data.js`](./assets/data.js) for your own work.
+- 🔥 You can use [`data.js`](./src/assets/data.js) for your own work.
 
 # <center> ⌛ Happy Coding ✍ </center>
 
